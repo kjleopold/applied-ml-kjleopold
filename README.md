@@ -1,6 +1,6 @@
-# applied-ml-template
+# applied-ml-kjleopold
 
-> Use this repo to start a professional Python project.
+> Professional Python project repository for Applied Machine Learning.
 
 - Additional instructions: See the [pro-analytics-02](https://denisecase.github.io/pro-analytics-02/) guide.
 - Project organization: [STRUCTURE](./STRUCTURE.md)
