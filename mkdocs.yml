@@ -18,15 +18,15 @@ theme:
   name: material
   features:
     - navigation.expand
-    - navigation.sections # Group navigation items
-    - navigation.top # Back-to-top button
-    - search.suggest # Search suggestions as you type
-    - search.highlight # Highlight search terms
-    - content.code.copy # Copy button on code blocks
-    - toc.follow # Highlight current section in TOC
+    - navigation.sections
+    - navigation.top
+    - search.suggest
+    - search.highlight
+    - content.code.copy
+    - toc.follow
 
   palette:
-    - scheme: default # Light/dark mode toggle
+    - scheme: default
       primary: indigo
       accent: indigo
       toggle:
@@ -46,21 +46,21 @@ plugins:
         python:
           options:
             show_source: true
-            show_root_heading: true # Include module names
-            show_root_toc_entry: true # Include module in TOC
-            docstring_style: google # Professional docstring format
+            show_root_heading: true
+            show_root_toc_entry: true
+            docstring_style: google
             show_signature_annotations: true
-            separate_signature: true    # Makes function signatures easier to read
+            separate_signature: true
 
 markdown_extensions:
-  - admonition # Note/Warning/Tip boxes
-  - codehilite # Syntax highlighting
-  - tables # Markdown tables
+  - admonition
+  - codehilite
+  - tables
   - toc:
-      permalink: true # Clickable headers
+      permalink: true
       toc_depth: 3
-  - pymdownx.superfences # Code blocks with syntax highlighting
-  - pymdownx.details # Collapsible sections
+  - pymdownx.superfences
+  - pymdownx.details
 
 nav:
   - Home: index.md
