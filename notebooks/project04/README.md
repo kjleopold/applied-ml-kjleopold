@@ -69,7 +69,7 @@ This project shifts from classification (predicting survival) to regression, foc
 
 ---
 
-## Next Steps (Optional)
+## Next Steps
 
 - Include additional features like `pclass` or `sex_encoded` to improve predictions.  
 - Predict `age` instead of `fare` to explore a different regression target.  
