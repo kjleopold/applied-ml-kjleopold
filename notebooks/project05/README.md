@@ -1,7 +1,7 @@
 # Project 4 – Continuous Target Prediction Using Regression (Titanic)
 
 **Author:** Kellie Leopold  
-**Date:** 11/14/2025  
+**Date:** 11/21/2025  
 
 ---
 
