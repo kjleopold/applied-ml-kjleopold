@@ -67,7 +67,7 @@ This project explores ensemble machine learning techniques to classify wine qual
 
 ---
 
-## Next Steps
+## Possible Next Steps
 
 - Add models such as Random Forest, Gradient Boosting, or XGBoost for deeper comparison.  
 - Use SMOTE or class-weight adjustments to improve prediction of minority classes.  
