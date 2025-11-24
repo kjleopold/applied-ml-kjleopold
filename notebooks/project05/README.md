@@ -1,4 +1,4 @@
-# Project 5 – Ensemble Machine Learning (Wine Quality)
+# Project 5 – Ensemble Machine Learning on Wine Quality
 
 **Author:** Kellie Leopold  
 **Date:** 11/21/2025  
